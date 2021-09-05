@@ -1,2 +1,2 @@
 # python-project
-This repositirory is for pyhton projects.
+This repository is for Pyhton projects. It includes my documents during Python course. 
